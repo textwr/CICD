@@ -1,5 +1,5 @@
 # 워크플로우 이름
-name: ftp:deploy
+name: ftp-deploy
 # 이벤트 생성하기
 on: 
   # 이벤트를 수동으로 실행
